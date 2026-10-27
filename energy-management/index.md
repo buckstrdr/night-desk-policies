@@ -4,7 +4,7 @@ title: "Privacy policy: Energy Management"
 
 # Privacy policy: Energy Management
 
-_Last updated: 21 October 2026_
+_Last updated: 27 October 2026_
 
 Energy Management keeps what you enter on your phone. The app itself never sends anything anywhere over the internet: it has no internet permission, and we do not collect, receive or share any of your information.
 
@@ -33,4 +33,4 @@ The app is a personal planner, not a medical device. It does not diagnose, treat
 If this policy changes, the new version will be included in an app update and shown in the app.
 
 ## Contact
-Contact: Achieve Rehab
+Energy Management is developed by Night Desk Studios, in association with Achieve Rehab. For questions about this policy or your information, email nightdeskstudios2027@gmail.com.
